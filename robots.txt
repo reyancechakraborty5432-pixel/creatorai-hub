@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reyancechakraborty5432-pixel.github.io/creatorai-hub/sitemap.xml
